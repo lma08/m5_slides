@@ -1,0 +1,27 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.btn {
+    background: none;
+    border: 1px solid #358000;
+    padding: 15px;
+    margin: 20px;
+    width: 150px;
+    color: #358000;
+    font-weight: bolder;
+}
+h4 {
+    width: 70%;
+}
+body {
+    background-color: lightblue;
+}
+.btnMore {
+    border: none;
+    background: none;
+    text-decoration: underline;
+    color: #358000;
+}
